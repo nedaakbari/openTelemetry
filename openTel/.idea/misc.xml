@@ -6,6 +6,9 @@
       <list>
         <option value="$PROJECT_DIR$/otelOne/pom.xml" />
         <option value="$PROJECT_DIR$/distributed-tracing-with-spring-boot/distributed-tracing-spring-cloud-jaeger/pom.xml" />
+        <option value="$PROJECT_DIR$/distributed-tracing-with-spring-boot/distributed-tracing-spring-cloud-sleuth-zipkin/pom.xml" />
+        <option value="$PROJECT_DIR$/distributed-tracing-with-spring-boot/distributed-tracing-spring-boot-opentelemetry-jaeger/pom.xml" />
+        <option value="$PROJECT_DIR$/distributed-tracing-spring-boot-opentelemetry-jaeger/pom.xml" />
       </list>
     </option>
     <option name="workspaceImportForciblyTurnedOn" value="true" />
